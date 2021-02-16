@@ -1,0 +1,1 @@
+This is a javaScript project made by Vanila javaScript
